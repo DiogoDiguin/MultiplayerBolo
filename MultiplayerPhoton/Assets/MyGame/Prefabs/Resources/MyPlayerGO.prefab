@@ -94,6 +94,10 @@ MonoBehaviour:
   bulletGo: {fileID: 4031772857955394488, guid: 85d4d0bf9ded3bc4db13e3ce8cc3db51, type: 3}
   bulletGoPhotonView: {fileID: 4031772857955394488, guid: eb603e198eb4f9b4897adefd36d63f7a, type: 3}
   spawBullet: {fileID: 5547963475853932543}
+  machineGunKey: 32
+  fireRate: 0.1
+  machineGunDuration: 2
+  machineGunCooldown: 5
 --- !u!114 &-2482933592918859696
 MonoBehaviour:
   m_ObjectHideFlags: 0
